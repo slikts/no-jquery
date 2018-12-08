@@ -6,6 +6,8 @@
 * linking to jQuery and MDN documentation
 * using modern practices
 * embedding runnable and editable examples
+* discussing when component frameworks are preferable to DOM manipulation
+* discussing jQuery history and design flaws
 
 ## Ajax
 
