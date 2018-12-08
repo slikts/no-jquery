@@ -1,5 +1,12 @@
 # You probably don't need jQuery (in 2018)
 
+## Goals
+* discussing and linking to polyfills for web APIs
+* showing [caniuse.com](https://caniuse.com/) statistics for features
+* linking to jQuery and MDN documentation
+* using modern practices
+* embedding runnable and editable examples
+
 ## Ajax
 
 ### JSON
